@@ -3,7 +3,7 @@
 
 
 
-## Result Plot (Actual Stock Prices vs Predicted Stock Prices)
+ Result Plot (Actual Stock Prices vs Predicted Stock Prices)
 
 
 
